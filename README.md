@@ -6,4 +6,4 @@
 
 ### Установка
 
-`wget https://github.com/molotovcode/wireguard-install-oneclick.git -O wireguard-install.sh && bash wireguard-install.sh`
+`wget https://github.com/kinematika/wireguard-install-oneclick.git -O wireguard-install.sh && bash wireguard-install.sh`
